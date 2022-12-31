@@ -5,4 +5,4 @@ Here we have some solution for smart parking system by using Arduino and ThingSp
 
 Here we used ThinkSpeakCloud Server and integrated IoT modules with web-app 
 
-This project has been recognized in A NATIONAL LEVEL HACKATHON !
+This project has been recognized in <b><strong> A NATIONAL LEVEL HACKATHON ! </strong></b>
